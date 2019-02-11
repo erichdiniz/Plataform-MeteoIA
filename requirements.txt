@@ -1,0 +1,6 @@
+werkzeug
+wtforms
+Flask
+Flask-SQLAlchemy
+flask_bootstrap
+flask_wtf
